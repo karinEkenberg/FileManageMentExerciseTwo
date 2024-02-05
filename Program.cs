@@ -1,4 +1,4 @@
-﻿namespace FileManagementExerciseOne
+﻿namespace FileManagementExerciseTwo
 {
     internal class Program
     {
